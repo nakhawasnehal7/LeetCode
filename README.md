@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nakhawasnehal7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nakhawasnehal7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0443-string-compression](https://github.com/nakhawasnehal7/LeetCode/tree/master/0443-string-compression) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nakhawasnehal7/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/nakhawasnehal7/LeetCode/tree/master/0012-integer-to-roman) |
 ## Linked List
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/nakhawasnehal7/LeetCode/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/nakhawasnehal7/LeetCode/tree/master/0012-integer-to-roman) |
 ## Recursion
 |  |
 | ------- |
