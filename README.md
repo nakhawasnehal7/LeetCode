@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/nakhawasnehal7/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nakhawasnehal7/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nakhawasnehal7/LeetCode/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/nakhawasnehal7/LeetCode/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nakhawasnehal7/LeetCode/tree/master/0901-online-stock-span) |
 ## Database
 |  |
 | ------- |
@@ -135,4 +137,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/nakhawasnehal7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nakhawasnehal7/LeetCode/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nakhawasnehal7/LeetCode/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
