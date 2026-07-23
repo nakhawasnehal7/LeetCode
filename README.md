@@ -112,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/nakhawasnehal7/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
