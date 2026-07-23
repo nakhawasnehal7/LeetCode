@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/nakhawasnehal7/LeetCode/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/nakhawasnehal7/LeetCode/tree/master/0443-string-compression) |
 ## String
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nakhawasnehal7/LeetCode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/nakhawasnehal7/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0061-rotate-list) |
 ## Math
 |  |
 | ------- |
