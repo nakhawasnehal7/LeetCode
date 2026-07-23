@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/nakhawasnehal7/LeetCode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0283-move-zeroes](https://github.com/nakhawasnehal7/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Hash Table
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 ## Trie
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0045-jump-game-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
