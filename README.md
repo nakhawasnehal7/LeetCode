@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nakhawasnehal7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nakhawasnehal7/LeetCode/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/nakhawasnehal7/LeetCode/tree/master/0058-length-of-last-word) |
 | [0443-string-compression](https://github.com/nakhawasnehal7/LeetCode/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nakhawasnehal7/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nakhawasnehal7/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
