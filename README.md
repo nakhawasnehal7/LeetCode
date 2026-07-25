@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/nakhawasnehal7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/nakhawasnehal7/LeetCode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0334-increasing-triplet-subsequence) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/nakhawasnehal7/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/nakhawasnehal7/LeetCode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
