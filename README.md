@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nakhawasnehal7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nakhawasnehal7/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nakhawasnehal7/LeetCode/tree/master/0058-length-of-last-word) |
 | [0443-string-compression](https://github.com/nakhawasnehal7/LeetCode/tree/master/0443-string-compression) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/nakhawasnehal7/LeetCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
