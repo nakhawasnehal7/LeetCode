@@ -8,7 +8,7 @@ class Solution {
             if (nums1[p1] > nums2[p2]) {
                 nums1[p] = nums1[p1];  // place larger at end
                 p1--;
-            } else {
+            } else {  
                 nums1[p] = nums2[p2];
                 p2--;
             }
