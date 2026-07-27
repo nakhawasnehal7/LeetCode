@@ -223,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/nakhawasnehal7/LeetCode/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
