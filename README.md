@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nakhawasnehal7/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nakhawasnehal7/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0134-gas-station](https://github.com/nakhawasnehal7/LeetCode/tree/master/0134-gas-station) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/nakhawasnehal7/LeetCode/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/nakhawasnehal7/LeetCode/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0079-word-search) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Dynamic Programming
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/nakhawasnehal7/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Randomized
 |  |
