@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nakhawasnehal7/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nakhawasnehal7/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/nakhawasnehal7/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/nakhawasnehal7/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nakhawasnehal7/LeetCode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/nakhawasnehal7/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/nakhawasnehal7/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
