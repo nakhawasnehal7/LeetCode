@@ -237,20 +237,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakhawasnehal7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakhawasnehal7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nakhawasnehal7/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakhawasnehal7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakhawasnehal7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 ## Design
 |  |
