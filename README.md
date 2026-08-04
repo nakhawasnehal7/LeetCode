@@ -347,4 +347,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/0136-single-number) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/nakhawasnehal7/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 <!---LeetCode Topics End-->
