@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nakhawasnehal7/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nakhawasnehal7/LeetCode/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nakhawasnehal7/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nakhawasnehal7/LeetCode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0063-unique-paths-ii) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nakhawasnehal7/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/nakhawasnehal7/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0169-majority-element) |
 ## Heap (Priority Queue)
 |  |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nakhawasnehal7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nakhawasnehal7/LeetCode/tree/master/0072-edit-distance) |
