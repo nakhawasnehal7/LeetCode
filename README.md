@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
 | [0435-non-overlapping-intervals](https://github.com/nakhawasnehal7/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/nakhawasnehal7/LeetCode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nakhawasnehal7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/nakhawasnehal7/LeetCode/tree/master/0502-ipo) |
 | [0643-maximum-average-subarray-i](https://github.com/nakhawasnehal7/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/nakhawasnehal7/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/nakhawasnehal7/LeetCode/tree/master/0435-non-overlapping-intervals) |
+| [0436-find-right-interval](https://github.com/nakhawasnehal7/LeetCode/tree/master/0436-find-right-interval) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/nakhawasnehal7/LeetCode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/nakhawasnehal7/LeetCode/tree/master/0502-ipo) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nakhawasnehal7/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0162-find-peak-element) |
+| [0436-find-right-interval](https://github.com/nakhawasnehal7/LeetCode/tree/master/0436-find-right-interval) |
 | [0704-binary-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nakhawasnehal7/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
