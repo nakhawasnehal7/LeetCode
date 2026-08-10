@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nakhawasnehal7/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nakhawasnehal7/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0981-time-based-key-value-store](https://github.com/nakhawasnehal7/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nakhawasnehal7/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nakhawasnehal7/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nakhawasnehal7/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/nakhawasnehal7/LeetCode/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/nakhawasnehal7/LeetCode/tree/master/0981-time-based-key-value-store) |
+| [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
 ## Data Stream
 |  |
 | ------- |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nakhawasnehal7/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0981-time-based-key-value-store](https://github.com/nakhawasnehal7/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
+| [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Randomized
 |  |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/nakhawasnehal7/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Persistent Data Structure
+|  |
+| ------- |
+| [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
 <!---LeetCode Topics End-->
