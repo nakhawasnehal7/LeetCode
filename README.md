@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/nakhawasnehal7/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/nakhawasnehal7/LeetCode/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/nakhawasnehal7/LeetCode/tree/master/0125-valid-palindrome) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/nakhawasnehal7/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/nakhawasnehal7/LeetCode/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/nakhawasnehal7/LeetCode/tree/master/0120-triangle) |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/nakhawasnehal7/LeetCode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/nakhawasnehal7/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -431,4 +434,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0300-longest-increasing-subsequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nakhawasnehal7/LeetCode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/nakhawasnehal7/LeetCode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
