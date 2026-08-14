@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/nakhawasnehal7/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nakhawasnehal7/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/nakhawasnehal7/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/nakhawasnehal7/LeetCode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/nakhawasnehal7/LeetCode/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0079-word-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/nakhawasnehal7/LeetCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nakhawasnehal7/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nakhawasnehal7/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nakhawasnehal7/LeetCode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/nakhawasnehal7/LeetCode/tree/master/0057-insert-interval) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nakhawasnehal7/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/nakhawasnehal7/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/nakhawasnehal7/LeetCode/tree/master/0049-group-anagrams) |
 | [0149-max-points-on-a-line](https://github.com/nakhawasnehal7/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0169-majority-element) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/nakhawasnehal7/LeetCode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nakhawasnehal7/LeetCode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/nakhawasnehal7/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
