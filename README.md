@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nakhawasnehal7/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/nakhawasnehal7/LeetCode/tree/master/0443-string-compression) |
+| [0876-middle-of-the-linked-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nakhawasnehal7/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## String
 |  |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/nakhawasnehal7/LeetCode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
