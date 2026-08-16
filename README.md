@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nakhawasnehal7/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nakhawasnehal7/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nakhawasnehal7/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nakhawasnehal7/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/nakhawasnehal7/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 ## Prefix Sum
 |  |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nakhawasnehal7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [2073-time-needed-to-buy-tickets](https://github.com/nakhawasnehal7/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
 | ------- |
