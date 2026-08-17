@@ -22,17 +22,19 @@ class Solution {
         return result;
     }
 
-    private void inorder(TreeNode node, int k) {
-        if (node == null) return;
-
-        inorder(node.left, k);  // go left first
-
-        count++;                 // visited one more node
-        if (count == k) {
-            result = node.val;  // found kth!
+    private void inorder(TreeNode root, int k) {
+        if (root == null) {
             return;
         }
 
-        inorder(node.right, k); // go right
+        inorder(root.left, k);
+
+        count++;
+        if (count == k) {
+            result = root.val;
+            return;
+        }
+        inorder(root.right, k);
+
     }
 }
