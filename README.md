@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nakhawasnehal7/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nakhawasnehal7/LeetCode/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/nakhawasnehal7/LeetCode/tree/master/0221-maximal-square) |
+| [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/nakhawasnehal7/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/nakhawasnehal7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nakhawasnehal7/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
+| [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
 ## Binary Tree
 |  |
 | ------- |
