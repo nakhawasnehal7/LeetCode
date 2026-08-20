@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nakhawasnehal7/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/nakhawasnehal7/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/nakhawasnehal7/LeetCode/tree/master/0502-ipo) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Merge Sort
 |  |
 | ------- |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/nakhawasnehal7/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0746-min-cost-climbing-stairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Stack
 |  |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
 | [0437-path-sum-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/nakhawasnehal7/LeetCode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nakhawasnehal7/LeetCode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
 ## Binary Tree
 |  |
@@ -471,10 +475,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nakhawasnehal7/LeetCode/tree/master/0547-number-of-provinces) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Bit Manipulation
 |  |
 | ------- |
