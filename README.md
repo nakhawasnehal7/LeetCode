@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nakhawasnehal7/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/nakhawasnehal7/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0437-path-sum-iii) |
 | [0547-number-of-provinces](https://github.com/nakhawasnehal7/LeetCode/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0872-leaf-similar-trees](https://github.com/nakhawasnehal7/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nakhawasnehal7/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0437-path-sum-iii) |
+| [0872-leaf-similar-trees](https://github.com/nakhawasnehal7/LeetCode/tree/master/0872-leaf-similar-trees) |
 ## Design
 |  |
 | ------- |
