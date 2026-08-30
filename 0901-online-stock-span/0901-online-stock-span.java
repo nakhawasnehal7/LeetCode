@@ -1,20 +1,21 @@
 class StockSpanner {
     // Stack stores [price, span]
-    private Deque<int[]> stack;
+    public Deque<int[]> stack;
 
     public StockSpanner() {
         stack = new ArrayDeque<>();
     }
 
     public int next(int price) {
-        int span = 1; // at least today
+        int spam = 1;
 
-        // Absorb spans of all smaller/equal prices
         while (!stack.isEmpty() && stack.peek()[0] <= price) {
-            span += stack.pop()[1]; // accumulate their spans
+            spam += stack.pop()[1];
         }
 
-        stack.push(new int[]{price, span});
-        return span;
+        stack.push(new int[] { price, spam });
+        return spam;
+
     }
+
 }
