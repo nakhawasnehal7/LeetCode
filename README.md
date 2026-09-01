@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/nakhawasnehal7/LeetCode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0212-word-search-ii) |
+| [0242-valid-anagram](https://github.com/nakhawasnehal7/LeetCode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/nakhawasnehal7/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0392-is-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/nakhawasnehal7/LeetCode/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/nakhawasnehal7/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nakhawasnehal7/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/nakhawasnehal7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/nakhawasnehal7/LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nakhawasnehal7/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/nakhawasnehal7/LeetCode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/nakhawasnehal7/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/nakhawasnehal7/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/nakhawasnehal7/LeetCode/tree/master/0435-non-overlapping-intervals) |
