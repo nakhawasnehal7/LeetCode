@@ -1,27 +1,29 @@
 class Solution {
     public int[] nextGreaterElements(int[] nums) {
         int n = nums.length;
-        int[] result = new int[n];
-        Arrays.fill(result, -1); // default -1
 
-        Deque<Integer> stack = new ArrayDeque<>(); // stores indices
+        Deque<Integer> stack = new ArrayDeque<>();
+        int[] ans = new int[n];
 
-        // Loop TWICE for circular effect
-        for (int i = 0; i < 2 * n; i++) {
-            int num = nums[i % n];
+      
+        for (int i = 2 * n - 1; i >= 0; i--) {
+            int idx = i % n;
 
-            // Pop all elements smaller than current
-            while (!stack.isEmpty() && nums[stack.peek()] < num) {
-                int idx = stack.pop();
-                result[idx] = num; // found next greater!
+            while (stack.size() > 0 && stack.peek() <= nums[idx]) {
+                stack.pop();
             }
-
-            // Only push indices from first pass
             if (i < n) {
-                stack.push(i);
+                if (stack.isEmpty()) {
+                    ans[idx] = -1;
+                } else {
+                    ans[idx] = stack.peek();
+                }
             }
-        }
 
-        return result;
+            stack.push(nums[idx]);
+
+        }
+        return ans;
+
     }
 }
