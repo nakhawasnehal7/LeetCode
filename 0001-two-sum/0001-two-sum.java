@@ -11,12 +11,13 @@ class Solution {
             int complement = target - nums[i];
 
             if (map.containsKey(complement)) {
-                return new int[] {map.get(complement), i};
+                return new int[] { map.get(complement), i };
             }
 
             map.put(nums[i], i);
         }
 
         return new int[] {};
+
     }
 }
