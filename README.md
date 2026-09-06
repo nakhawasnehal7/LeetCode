@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/nakhawasnehal7/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/nakhawasnehal7/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/nakhawasnehal7/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/nakhawasnehal7/LeetCode/tree/master/0120-triangle) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/nakhawasnehal7/LeetCode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/nakhawasnehal7/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/nakhawasnehal7/LeetCode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/nakhawasnehal7/LeetCode/tree/master/0079-word-search) |
 | [0212-word-search-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0212-word-search-ii) |
 | [0257-binary-tree-paths](https://github.com/nakhawasnehal7/LeetCode/tree/master/0257-binary-tree-paths) |
@@ -558,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/nakhawasnehal7/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/0136-single-number) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/nakhawasnehal7/LeetCode/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0287-find-the-duplicate-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/0287-find-the-duplicate-number) |
