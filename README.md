@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/nakhawasnehal7/LeetCode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/nakhawasnehal7/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/nakhawasnehal7/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/nakhawasnehal7/LeetCode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/nakhawasnehal7/LeetCode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/nakhawasnehal7/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/nakhawasnehal7/LeetCode/tree/master/0133-clone-graph) |
 | [0142-linked-list-cycle-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/nakhawasnehal7/LeetCode/tree/master/0146-lru-cache) |
@@ -548,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/nakhawasnehal7/LeetCode/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nakhawasnehal7/LeetCode/tree/master/0547-number-of-provinces) |
