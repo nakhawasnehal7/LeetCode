@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/nakhawasnehal7/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
+| [0441-arranging-coins](https://github.com/nakhawasnehal7/LeetCode/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/nakhawasnehal7/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [2965-find-missing-and-repeated-values](https://github.com/nakhawasnehal7/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Recursion
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0436-find-right-interval](https://github.com/nakhawasnehal7/LeetCode/tree/master/0436-find-right-interval) |
+| [0441-arranging-coins](https://github.com/nakhawasnehal7/LeetCode/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/nakhawasnehal7/LeetCode/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/0611-valid-triangle-number) |
