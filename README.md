@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/nakhawasnehal7/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/nakhawasnehal7/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0189-rotate-array) |
+| [0279-perfect-squares](https://github.com/nakhawasnehal7/LeetCode/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/nakhawasnehal7/LeetCode/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/nakhawasnehal7/LeetCode/tree/master/0441-arranging-coins) |
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/nakhawasnehal7/LeetCode/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/nakhawasnehal7/LeetCode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/nakhawasnehal7/LeetCode/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/nakhawasnehal7/LeetCode/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/nakhawasnehal7/LeetCode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/nakhawasnehal7/LeetCode/tree/master/0338-counting-bits) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nakhawasnehal7/LeetCode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/nakhawasnehal7/LeetCode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0210-course-schedule-ii) |
+| [0279-perfect-squares](https://github.com/nakhawasnehal7/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nakhawasnehal7/LeetCode/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/nakhawasnehal7/LeetCode/tree/master/0547-number-of-provinces) |
@@ -698,10 +701,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/nakhawasnehal7/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nakhawasnehal7/LeetCode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/nakhawasnehal7/LeetCode/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/nakhawasnehal7/LeetCode/tree/master/0322-coin-change) |
 ## Bracket Sequences
 |  |
