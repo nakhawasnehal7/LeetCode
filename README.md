@@ -486,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nakhawasnehal7/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/nakhawasnehal7/LeetCode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/nakhawasnehal7/LeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nakhawasnehal7/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/nakhawasnehal7/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
 ## Data Stream
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nakhawasnehal7/LeetCode/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/nakhawasnehal7/LeetCode/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nakhawasnehal7/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Counting
 |  |
 | ------- |
@@ -604,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/nakhawasnehal7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0933-number-of-recent-calls](https://github.com/nakhawasnehal7/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nakhawasnehal7/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Queue
 |  |
