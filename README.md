@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nakhawasnehal7/LeetCode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
 | [0443-string-compression](https://github.com/nakhawasnehal7/LeetCode/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/nakhawasnehal7/LeetCode/tree/master/0649-dota2-senate) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/nakhawasnehal7/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/nakhawasnehal7/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nakhawasnehal7/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/nakhawasnehal7/LeetCode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/nakhawasnehal7/LeetCode/tree/master/0901-online-stock-span) |
