@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/nakhawasnehal7/LeetCode/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/nakhawasnehal7/LeetCode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nakhawasnehal7/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nakhawasnehal7/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2405-optimal-partition-of-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/nakhawasnehal7/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nakhawasnehal7/LeetCode/tree/master/0658-find-k-closest-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0912-sort-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nakhawasnehal7/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Merge Sort
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-number-of-recent-calls](https://github.com/nakhawasnehal7/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/nakhawasnehal7/LeetCode/tree/master/0981-time-based-key-value-store) |
 | [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/nakhawasnehal7/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Data Stream
 |  |
 | ------- |
@@ -756,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/nakhawasnehal7/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
