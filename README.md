@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/nakhawasnehal7/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1539-kth-missing-positive-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/nakhawasnehal7/LeetCode/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nakhawasnehal7/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2073-time-needed-to-buy-tickets](https://github.com/nakhawasnehal7/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/nakhawasnehal7/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nakhawasnehal7/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/nakhawasnehal7/LeetCode/tree/master/0221-maximal-square) |
 | [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nakhawasnehal7/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2965-find-missing-and-repeated-values](https://github.com/nakhawasnehal7/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/nakhawasnehal7/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Binary Tree
 |  |
 | ------- |
