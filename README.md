@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/nakhawasnehal7/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nakhawasnehal7/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nakhawasnehal7/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## String
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/nakhawasnehal7/LeetCode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/nakhawasnehal7/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nakhawasnehal7/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2965-find-missing-and-repeated-values](https://github.com/nakhawasnehal7/LeetCode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0912-sort-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/nakhawasnehal7/LeetCode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nakhawasnehal7/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Merge Sort
 |  |
 | ------- |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/nakhawasnehal7/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2462-total-cost-to-hire-k-workers](https://github.com/nakhawasnehal7/LeetCode/tree/master/2462-total-cost-to-hire-k-workers) |
 ## Prefix Sum
 |  |
 | ------- |
