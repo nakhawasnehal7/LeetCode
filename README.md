@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nakhawasnehal7/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/nakhawasnehal7/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/nakhawasnehal7/LeetCode/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/nakhawasnehal7/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0436-find-right-interval](https://github.com/nakhawasnehal7/LeetCode/tree/master/0436-find-right-interval) |
 | [0441-arranging-coins](https://github.com/nakhawasnehal7/LeetCode/tree/master/0441-arranging-coins) |
 | [0528-random-pick-with-weight](https://github.com/nakhawasnehal7/LeetCode/tree/master/0528-random-pick-with-weight) |
@@ -782,4 +783,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/nakhawasnehal7/LeetCode/tree/master/0399-evaluate-division) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/nakhawasnehal7/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
