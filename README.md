@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/nakhawasnehal7/LeetCode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/nakhawasnehal7/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/nakhawasnehal7/LeetCode/tree/master/0069-sqrtx) |
+| [0096-unique-binary-search-trees](https://github.com/nakhawasnehal7/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/nakhawasnehal7/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0172-factorial-trailing-zeroes](https://github.com/nakhawasnehal7/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0189-rotate-array) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/nakhawasnehal7/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/nakhawasnehal7/LeetCode/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/nakhawasnehal7/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/nakhawasnehal7/LeetCode/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/nakhawasnehal7/LeetCode/tree/master/0120-triangle) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nakhawasnehal7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/nakhawasnehal7/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakhawasnehal7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -493,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nakhawasnehal7/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/nakhawasnehal7/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakhawasnehal7/LeetCode/tree/master/0199-binary-tree-right-side-view) |
@@ -716,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/nakhawasnehal7/LeetCode/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nakhawasnehal7/LeetCode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nakhawasnehal7/LeetCode/tree/master/0450-delete-node-in-a-bst) |
 ## Topological Sort
