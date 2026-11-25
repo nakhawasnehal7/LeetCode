@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
 | [0912-sort-an-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/nakhawasnehal7/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0994-rotting-oranges](https://github.com/nakhawasnehal7/LeetCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/nakhawasnehal7/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1146-snapshot-array](https://github.com/nakhawasnehal7/LeetCode/tree/master/1146-snapshot-array) |
 | [1207-unique-number-of-occurrences](https://github.com/nakhawasnehal7/LeetCode/tree/master/1207-unique-number-of-occurrences) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/nakhawasnehal7/LeetCode/tree/master/0212-word-search-ii) |
 | [0221-maximal-square](https://github.com/nakhawasnehal7/LeetCode/tree/master/0221-maximal-square) |
 | [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/nakhawasnehal7/LeetCode/tree/master/0994-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/nakhawasnehal7/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nakhawasnehal7/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/nakhawasnehal7/LeetCode/tree/master/2352-equal-row-and-column-pairs) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/nakhawasnehal7/LeetCode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/nakhawasnehal7/LeetCode/tree/master/0841-keys-and-rooms) |
 | [0909-snakes-and-ladders](https://github.com/nakhawasnehal7/LeetCode/tree/master/0909-snakes-and-ladders) |
+| [0994-rotting-oranges](https://github.com/nakhawasnehal7/LeetCode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/nakhawasnehal7/LeetCode/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/nakhawasnehal7/LeetCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
